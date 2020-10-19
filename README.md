@@ -11,8 +11,8 @@ earned run average (ERA) of the 1988 Dodgers and the 2020 Dodgers. The 1988 Dodg
 the World Series. As of this writing, the 2020 Dodgers are making their way through the MLB postseason. I had
 an interest in understanding how the two teams compare accross some basic regular season statistics.
 
-When you run the app and navigate to http://127.0.0.1:8050/, you should see something like this,
+When you run the app and navigate to http://127.0.0.1:8050/, you should see something like this.
 
 ![alt text here](img/img_dashboard_LAD1.png)
 
-We will build more complex apps in soon.
+More complex apps will follow soon.
